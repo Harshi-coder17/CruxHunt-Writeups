@@ -50,7 +50,7 @@ This round focuses on reconnaissance within the "commercial layer" of the wizard
 | **Q2**| **Example Challenge** | [PDF](./path) | [View](./path) | Medium | 200 | #Category |
 | **Q3**| **Example Challenge** | [PDF](./path) | [View](./path) | Medium | 200 | #Category |
 | **Q4**| **Example Challenge** | [PDF](./path) | [View](./path) | Medium | 200 | #Category |
-| **Q5**| **Invisible Ink** | [PDF](./path) | [View](./https://drive.google.com/file/d/1lk5C_7c6hyf3TGIEJ2icozQZfWLVzU2N/view?usp=drive_link) | Easy | 200 | Hidden Document Metadata |
+| **Q5**| **Invisible Ink** | [PDF](./path) | [View](https://drive.google.com/file/d/1lk5C_7c6hyf3TGIEJ2icozQZfWLVzU2N/view?usp=drive_link) | Easy | 200 | Hidden Document Metadata |
 | **Q6**| **Example Challenge** | [PDF](./path) | [View](./path) | Medium | 200 | #Category |
 | **Q7**| **Example Challenge** | [PDF](./path) | [View](./path) | Medium | 200 | #Category |
 

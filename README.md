@@ -83,13 +83,13 @@ A single, two-stage investigation into Snape’s manifesto and evidence. Partici
 
 Some of the tools used in these writeups include (not limited to):
 
-| Category | Tool Name | Link |
-| :--- | :--- | :--- |
-| **Network Scanning & Enumeration** | Nmap | [https://Nmap.org/](https://Nmap.org/) |
-| | GoBuster | [https://www.kali.org/tools/gobuster/](https://www.kali.org/tools/gobuster/) |
-| | WPScan | [https://wpscan.com/](https://wpscan.com/) |
-| | enum4linux | [https://www.kali.org/tools/enum4linux/](https://www.kali.org/tools/enum4linux/) |
-| **Vulnerability** | | |
+| Tool Name | Link |
+| :--- | :--- |
+| Nmap | [https://Nmap.org/](https://Nmap.org/) |
+| CyberChef | [https://www.kali.org/tools/gobuster/](https://gchq.github.io/CyberChef) |
+| Dogbolt | [https://wpscan.com/](https://dogbolt.org) |
+| enum4linux | [https://www.kali.org/tools/enum4linux/](https://www.kali.org/tools/enum4linux/) |
+
 
 # Social Media Handles 
 

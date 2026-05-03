@@ -1,5 +1,7 @@
 # CruxHunt 
 
+![Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYOUR-GITHUB-USERNAME%2FYOUR-REPO-NAME&count_bg=%23007acc&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Repo%20Views&edge_flat=true)
+
 ## Official CTF Writeups
 
 Welcome to the **OWASP TIET** official writeup repository! This document serves as the central intelligence database for the solutions and methodologies used to solve challenges within the Cruxbreaker ecosystem. This repository is designed as a learning resource for those who fight not with spells, but with terminals and code.

@@ -46,13 +46,13 @@ This round focuses on reconnaissance within the "commercial layer" of the wizard
 
 | Q. NO. | Challenge Name | Writeup | Video Solution | Difficulty | Points | Category |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| **Q1**| **Example Challenge** | [PDF](./Writeups/Round%201/R1%20Q1.pdf) | [View](./path) | Medium | 200 | #Category |
-| **Q2**| **Example Challenge** | [PDF](./Writeups/Round%201/R1%20Q2.pdf) | [View](./path) | Medium | 200 | #Category |
-| **Q3**| **Example Challenge** | [PDF](./Writeups/Round%201/R1%20Q3.pdf) | [View](./path) | Medium | 200 | #Category |
-| **Q4**| **Example Challenge** | [PDF](./Writeups/Round%201/R1%20Q4.pdf) | [View](./path) | Medium | 200 | #Category |
-| **Q5**| **Invisible Ink** | [PDF](./Writeups/Round%201/R1%20Q5.pdf) | [View](https://drive.google.com/file/d/1lk5C_7c6hyf3TGIEJ2icozQZfWLVzU2N/view?usp=drive_link) | Easy | 200 | Hidden Document Metadata |
-| **Q6**| **Example Challenge** | [PDF](./Writeups/Round%201/R1%20Q6.pdf) | [View](./path) | Medium | 200 | #Category |
-| **Q7**| **Example Challenge** | [PDF](./Writeups/Round%201/R1%20Q7.pdf) | [View](./path) | Medium | 200 | #Category |
+| **Q1**| **Doomed** | [PDF](./Writeups/Round%201/R1%20Q1.pdf) | [View](https://drive.google.com/file/d/11mRUp-rYI8yXXezvmYjWGMfyQEqN1zqX/view?usp=drive_link) | 🟢🟡 Easy-Medium | 200 | Web Exploitation / JWT / Cryptography |
+| **Q2**| **The Auror’s False Name** | [PDF](./Writeups/Round%201/R1%20Q2.pdf) | [View](https://drive.google.com/file/d/1ssEAFxD23cE_xqgVZ6OMv0rY9-up2g8P/view?usp=drive_link) | 🟢 Easy | 120 | Web Exploitation |
+| **Q3**| **The Disabled Gate** | [PDF](./Writeups/Round%201/R1%20Q3.pdf) | [View](https://drive.google.com/file/d/1TJ8Pk-KZeH56ly52KLv7CwtrwbN2I5Fl/view?usp=drive_link) | 🟢 Easy | 80 | Client Side HTML Manipulation |
+| **Q4**| **The Borrowed Identity** | [PDF](./Writeups/Round%201/R1%20Q4.pdf) | [View](https://drive.google.com/file/d/1GjXTHI9wrIdaqOHhbofOf2GoeQ12UUR4/view?usp=drive_link) | 🟢 Easy | 120 | Broken access control and cookie manipulation |
+| **Q5**| **Invisible Ink** | [PDF](./Writeups/Round%201/R1%20Q5.pdf) | [View](https://drive.google.com/file/d/1Tzxy-E7HD87yaR5idNjqVQfCtJu6ol_n/view?usp=drive_link) | 🟢 Easy | 80 | Hidden Document Metadata |
+| **Q6**| **The Balanced Truthe** | [PDF](./Writeups/Round%201/R1%20Q6.pdf) | [View](https://drive.google.com/file/d/1ggQGotRJL66LychAbNa4IsqsskgQxnEU/view?usp=drive_link) | 🟢 Easy | 100 | SQL Injection |
+| **Q7**| **Fragmented Challenge** | [PDF](./Writeups/Round%201/R1%20Q7.pdf) | [View](https://drive.google.com/file/d/10FbxDlsND3PORsouOBO_kHpVn2iBOLMT/view?usp=drive_link) | 🟢 Easy | 150 | Encoding |
 
 
 

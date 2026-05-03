@@ -44,13 +44,13 @@ If you are new to the unit, we recommend starting with **Round 1 (Reconnaissance
 ## Round 1: "Diagon Alley is Dark"
 This round focuses on reconnaissance within the "commercial layer" of the wizarding world. Participants act as spies tracing the infection's entry point backward from anonymous handlers and fake vendors to identify who touched the system last.
 
-| Q. NO. | Challenge Name | Writeup | Video Solution | Difficulty | Points | Tags |
+| Q. NO. | Challenge Name | Writeup | Video Solution | Difficulty | Points | Category |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | **Q1**| **Example Challenge** | [PDF](./path) | [View](./path) | Medium | 200 | #Category |
 | **Q2**| **Example Challenge** | [PDF](./path) | [View](./path) | Medium | 200 | #Category |
 | **Q3**| **Example Challenge** | [PDF](./path) | [View](./path) | Medium | 200 | #Category |
 | **Q4**| **Example Challenge** | [PDF](./path) | [View](./path) | Medium | 200 | #Category |
-| **Q5**| **Example Challenge** | [PDF](./path) | [View](./path) | Medium | 200 | #Category |
+| **Q5**| **Invisible Ink** | [PDF](./path) | [View](./https://drive.google.com/file/d/1lk5C_7c6hyf3TGIEJ2icozQZfWLVzU2N/view?usp=drive_link) | Easy | 200 | Hidden Document Metadata |
 | **Q6**| **Example Challenge** | [PDF](./path) | [View](./path) | Medium | 200 | #Category |
 | **Q7**| **Example Challenge** | [PDF](./path) | [View](./path) | Medium | 200 | #Category |
 
@@ -58,7 +58,7 @@ This round focuses on reconnaissance within the "commercial layer" of the wizard
 
 ## Round 2: "The Chamber of Systems"
 The investigation moves to Chamber B-7, a decommissioned Ministry mainframe chamber that has secretly remained online for fifteen years. Using credentials recovered in Round 1, participants must explore the legacy hybrid infrastructure left behind by the engineer known as "Snape"
-| Q. NO. | Challenge Name | Writeup | Video Solution | Difficulty | Points | Tags |
+| Q. NO. | Challenge Name | Writeup | Video Solution | Difficulty | Points | Category |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | **Q1**| **Example Challenge** | [PDF](./path) | [View](./path) | Medium | 200 | #Category |
 | **Q2**| **Example Challenge** | [PDF](./path) | [View](./path) | Medium | 200 | #Category |
@@ -68,7 +68,7 @@ The investigation moves to Chamber B-7, a decommissioned Ministry mainframe cham
 
 ## Round 3: "The Unforgivable Stack"
 This round shifts from reconnaissance to active combat against the three core modules of the FIENDFYRE worm, named after the Unforgivable Curses. Each module targets a different layer of the infrastructure and must be neutralized
-| Q. NO. | Challenge Name | Writeup | Video Solution | Difficulty | Points | Tags |
+| Q. NO. | Challenge Name | Writeup | Video Solution | Difficulty | Points | Category |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | **Q1**| **Example Challenge** | [PDF](./path) | [View](./path) | Medium | 200 | #Category |
 | **Q2**| **Example Challenge** | [PDF](./path) | [View](./path) | Medium | 200 | #Category |
@@ -78,7 +78,7 @@ This round shifts from reconnaissance to active combat against the three core mo
 
 ## Round 4: "Breaking What Was Built to Last"
 Focuses on the "Unbreakable Vow" of the system—the deepest, most architecturally resistant layers designed by Snape. This round involves dismantling complex security measures like custom instruction sets and shifting address space layouts.
-| Q. NO. | Challenge Name | Writeup | Video Solution | Difficulty | Points | Tags |
+| Q. NO. | Challenge Name | Writeup | Video Solution | Difficulty | Points | Category |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | **Q1**| **Example Challenge** | [PDF](./path) | [View](./path) | Medium | 200 | #Category |
 | **Q2**| **Example Challenge** | [PDF](./path) | [View](./path) | Medium | 200 | #Category |
@@ -87,7 +87,7 @@ Focuses on the "Unbreakable Vow" of the system—the deepest, most architectural
 
 ## Round 5: "Fiendfyre - The Final Cipher"
 A single, two-stage investigation into Snape’s manifesto and evidence. Participants must navigate a distributed network hidden within magical portraits to recover a private key and sign a final "kill command" to release the archive lock.
-| Q. NO. | Challenge Name | Writeup | Video Solution | Difficulty | Points | Tags |
+| Q. NO. | Challenge Name | Writeup | Video Solution | Difficulty | Points |  Category |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | **Q1**| **Example Challenge** | [PDF](./path) | [View](./path) | Medium | 200 | #Category |
 | **Q2**| **Example Challenge** | [PDF](./path) | [View](./path) | Medium | 200 | #Category |

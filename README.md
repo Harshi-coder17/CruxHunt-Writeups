@@ -60,7 +60,7 @@ This round focuses on reconnaissance within the "commercial layer" of the wizard
 The investigation moves to Chamber B-7, a decommissioned Ministry mainframe chamber that has secretly remained online for fifteen years. Using credentials recovered in Round 1, participants must explore the legacy hybrid infrastructure left behind by the engineer known as "Snape"
 | Q. NO. | Challenge Name | Writeup | Video Solution | Difficulty | Points | Category |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| **Q1**| **Example Challenge** | [PDF](./path) | [View](./path) | Medium | 200 | #Category |
+| **Q1**| **Example Challenge** | [PDF](./Writeups/Round%202/R2%20Q1.pdf) | [View](./path) | Medium | 200 | #Category |
 | **Q2**| **Example Challenge** | [PDF](./path) | [View](./path) | Medium | 200 | #Category |
 | **Q3**| **Example Challenge** | [PDF](./path) | [View](./path) | Medium | 200 | #Category |
 | **Q4**| **Example Challenge** | [PDF](./path) | [View](./path) | Medium | 200 | #Category |

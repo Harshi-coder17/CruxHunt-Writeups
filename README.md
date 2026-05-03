@@ -1,6 +1,5 @@
 # CruxHunt 
 
-![Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYOUR-GITHUB-USERNAME%2FYOUR-REPO-NAME&count_bg=%23007acc&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Repo%20Views&edge_flat=true)
 
 ## Official CTF Writeups
 

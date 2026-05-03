@@ -46,13 +46,13 @@ This round focuses on reconnaissance within the "commercial layer" of the wizard
 
 | Q. NO. | Challenge Name | Writeup | Video Solution | Difficulty | Points | Category |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| **Q1**| **Example Challenge** | [PDF](./path) | [View](./path) | Medium | 200 | #Category |
-| **Q2**| **Example Challenge** | [PDF](./path) | [View](./path) | Medium | 200 | #Category |
-| **Q3**| **Example Challenge** | [PDF](./path) | [View](./path) | Medium | 200 | #Category |
-| **Q4**| **Example Challenge** | [PDF](./path) | [View](./path) | Medium | 200 | #Category |
-| **Q5**| **Invisible Ink** | [PDF](./path) | [View](https://drive.google.com/file/d/1lk5C_7c6hyf3TGIEJ2icozQZfWLVzU2N/view?usp=drive_link) | Easy | 200 | Hidden Document Metadata |
-| **Q6**| **Example Challenge** | [PDF](./path) | [View](./path) | Medium | 200 | #Category |
-| **Q7**| **Example Challenge** | [PDF](./path) | [View](./path) | Medium | 200 | #Category |
+| **Q1**| **Example Challenge** | [PDF](./Writeups/Round%201/R1%20Q1.pdf) | [View](./path) | Medium | 200 | #Category |
+| **Q2**| **Example Challenge** | [PDF](./Writeups/Round%201/R1%20Q2.pdf) | [View](./path) | Medium | 200 | #Category |
+| **Q3**| **Example Challenge** | [PDF](./Writeups/Round%201/R1%20Q3.pdf) | [View](./path) | Medium | 200 | #Category |
+| **Q4**| **Example Challenge** | [PDF](./Writeups/Round%201/R1%20Q4.pdf) | [View](./path) | Medium | 200 | #Category |
+| **Q5**| **Invisible Ink** | [PDF](./Writeups/Round%201/R1%20Q5.pdf) | [View](https://drive.google.com/file/d/1lk5C_7c6hyf3TGIEJ2icozQZfWLVzU2N/view?usp=drive_link) | Easy | 200 | Hidden Document Metadata |
+| **Q6**| **Example Challenge** | [PDF](./Writeups/Round%201/R1%20Q6.pdf) | [View](./path) | Medium | 200 | #Category |
+| **Q7**| **Example Challenge** | [PDF](./Writeups/Round%201/R1%20Q7.pdf) | [View](./path) | Medium | 200 | #Category |
 
 
 

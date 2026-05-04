@@ -63,7 +63,7 @@ The investigation moves to Chamber B-7, a decommissioned Ministry mainframe cham
 | **Q1**| **The Goblin’s Hidden Path** | [PDF](./Writeups/Round%202/R2%20Q1.pdf) | [View](https://drive.google.com/file/d/1Emc5WzkOsRKWHwFQOt0KV8-HtqJwHagx/view?usp=drive_link) | 🟡 Medium | 225 | LFI & Cryptography |
 | **Q2**| **The Infinite Mirror** | [PDF](./path) | [View](./path) | Medium | 200 | #Category |
 | **Q3**| **The Fractured Trust** | [PDF](./Writeups/Round%202/R2%20Q3.pdf) | [View](https://drive.google.com/file/d/1OIlGrWdtmTa6sVBWuAq3dzD6ycklOSjj/view?usp=drive_link) | 🟡🔴 Medium-Hard | 250 | JWT / Authentication Bypass |
-| **Q4**| **The Broken Howler** | [PDF](./Writeups/Round%202/R2%20Q4.pdf) | [View](./path) | 🟢 Easy | 150 | Steganography |
+| **Q4**| **The Broken Howler** | [PDF](./Writeups/Round%202/R2%20Q4.pdf) | [View](https://drive.google.com/file/d/1YVsDq-vdhDXHGfidwJGNl3AHeVvB07E_/view?usp=drive_link) | 🟢 Easy | 150 | Steganography |
 | **Q5**| **The Buried Spell** | [PDF](./Writeups/Round%202/R2%20Q5.pdf) | [View](https://drive.google.com/file/d/1csqavqKohhDIKF5RKv6STFuL7DzWJUaY/view?usp=drive_link) | 🟡 Medium | 175 | Steganography & Reverse Engineering |
 
 ## Round 3: "The Unforgivable Stack"

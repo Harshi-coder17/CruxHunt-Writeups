@@ -61,7 +61,7 @@ The investigation moves to Chamber B-7, a decommissioned Ministry mainframe cham
 | Q. NO. | Challenge Name | Writeup | Video Solution | Difficulty | Points | Category |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | **Q1**| **The Goblin’s Hidden Path** | [PDF](./Writeups/Round%202/R2%20Q1.pdf) | [View](https://drive.google.com/file/d/1Emc5WzkOsRKWHwFQOt0KV8-HtqJwHagx/view?usp=drive_link) | 🟡 Medium | 225 | LFI & Cryptography |
-| **Q2**| **The Infinite Mirrore** | [PDF](./path) | [View](./path) | Medium | 200 | #Category |
+| **Q2**| **The Infinite Mirror** | [PDF](./path) | [View](./path) | Medium | 200 | #Category |
 | **Q3**| **The Fractured Trust** | [PDF](./Writeups/Round%202/R2%20Q3.pdf) | [View](https://drive.google.com/file/d/1OIlGrWdtmTa6sVBWuAq3dzD6ycklOSjj/view?usp=drive_link) | 🟡🔴 Medium-Hard | 250 | JWT / Authentication Bypass |
 | **Q4**| **The Broken Howler** | [PDF](./Writeups/Round%202/R2%20Q4.pdf) | [View](./path) | 🟢 Easy | 150 | Steganography |
 | **Q5**| **The Buried Spell** | [PDF](./Writeups/Round%202/R2%20Q5.pdf) | [View](https://drive.google.com/file/d/1csqavqKohhDIKF5RKv6STFuL7DzWJUaY/view?usp=drive_link) | 🟡 Medium | 175 | Steganography & Reverse Engineering |
@@ -71,10 +71,10 @@ This round shifts from reconnaissance to active combat against the three core mo
 | Q. NO. | Challenge Name | Writeup | Video Solution | Difficulty | Points | Category |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | **Q1**| **Sorting Hat Blocks** | [PDF](./path) | [View](./path) | 🟡 Medium | 270 | Web Exploitation / Cryptography / AES-ECB |
-| **Q2**| **Example Challenge** | [PDF](./path) | [View](./path) | Medium | 200 | #Category |
-| **Q3**| **Example Challenge** | [PDF](./path) | [View](./path) | Medium | 200 | #Category |
-| **Q4**| **Example Challenge** | [PDF](./path) | [View](./path) | Medium | 200 | #Category |
-| **Q5**| **Example Challenge** | [PDF](./path) | [View](./path) | Medium | 200 | #Category |
+| **Q2**| **Dawlish Leak** | [PDF](./path) | [View](./path) | 🟡 Medium | 200 | Multi-stage OSINT + Git Forensics + Cryptography problem |
+| **Q3**| **Gringotts Breach** | [PDF](./path) | [View](./path) | Medium | 300 | #Category |
+| **Q4**| **Example Challenge** | [PDF](./path) | [View](./path) | Medium | 240 | #Category |
+| **Q5**| **Example Challenge** | [PDF](./path) | [View](./path) | Medium | 170 | #Category |
 
 ## Round 4: "Breaking What Was Built to Last"
 Focuses on the "Unbreakable Vow" of the system—the deepest, most architecturally resistant layers designed by Snape. This round involves dismantling complex security measures like custom instruction sets and shifting address space layouts.

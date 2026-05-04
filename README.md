@@ -70,7 +70,7 @@ The investigation moves to Chamber B-7, a decommissioned Ministry mainframe cham
 This round shifts from reconnaissance to active combat against the three core modules of the FIENDFYRE worm, named after the Unforgivable Curses. Each module targets a different layer of the infrastructure and must be neutralized
 | Q. NO. | Challenge Name | Writeup | Video Solution | Difficulty | Points | Category |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| **Q1**| **Example Challenge** | [PDF](./path) | [View](./path) | Medium | 200 | #Category |
+| **Q1**| **Sorting Hat Blocks** | [PDF](./path) | [View](./path) | 🟡 Medium | 270 | Web Exploitation / Cryptography / AES-ECB |
 | **Q2**| **Example Challenge** | [PDF](./path) | [View](./path) | Medium | 200 | #Category |
 | **Q3**| **Example Challenge** | [PDF](./path) | [View](./path) | Medium | 200 | #Category |
 | **Q4**| **Example Challenge** | [PDF](./path) | [View](./path) | Medium | 200 | #Category |

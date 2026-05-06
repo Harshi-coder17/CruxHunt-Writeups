@@ -80,8 +80,8 @@ This round shifts from reconnaissance to active combat against the three core mo
 Focuses on the "Unbreakable Vow" of the system—the deepest, most architecturally resistant layers designed by Snape. This round involves dismantling complex security measures like custom instruction sets and shifting address space layouts.
 | Q. NO. | Challenge Name | Writeup | Video Solution | Difficulty | Points | Category |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| **Q1**| **Order of the Phoenix** | [PDF](./Writeups/Round%204/R4%20Q1.pdf) | [View](./path) | 🔴 Hard | 350 | Forensics |
-| **Q2**| **Fragments of Truth** | [PDF](./Writeups/Round%204/R4%20Q2.pdf) | [View](./path) | 🟡 Medium | 270 | Audio Forensics / Steganography  |
+| **Q1**| **Order of the Phoenix** | [PDF](./Writeups/Round%204/R4%20Q1.pdf) | [View](https://drive.google.com/file/d/1pVvPaE82xxeX3PWrEA9EJzEVIv3bCCEG/view?usp=drive_link) | 🔴 Hard | 350 | Forensics |
+| **Q2**| **Fragments of Truth** | [PDF](./Writeups/Round%204/R4%20Q2.pdf) | [View](https://drive.google.com/file/d/11uWRO6DX-3PbBvNz8nsGmfnuo9Af2KIE/view?usp=drive_link) | 🟡 Medium | 270 | Audio Forensics / Steganography  |
 | **Q3**| **Example Challenge** | [PDF](./Writeups/Round%204/R4%20Q3.pdf) | [View](./path) | Medium | 310 | #Category |
 | **Q4**| **The Marauder's Map** | [PDF](./Writeups/Round%204/R4%20Q4.pdf) | [View](./path) | 🟡 Medium | 400 | OSINT, Digital Forensics  |
 
@@ -89,8 +89,8 @@ Focuses on the "Unbreakable Vow" of the system—the deepest, most architectural
 A single, two-stage investigation into Snape’s manifesto and evidence. Participants must navigate a distributed network hidden within magical portraits to recover a private key and sign a final "kill command" to release the archive lock.
 | Q. NO. | Challenge Name | Writeup | Video Solution | Difficulty | Points |  Category |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| **Q1**| **Example Challenge** | [PDF](./path) | [View](./path) | Medium | 200 | #Category |
-| **Q2**| **Example Challenge** | [PDF](./path) | [View](./path) | Medium | 200 | #Category |
+| **Q1**| **The Portrait** | [PDF](./Writeups/Round%205/R5%20Q1.pdf) | [View](https://drive.google.com/file/d/1KpYPJ8X6vKfDmTCqpJYNVG3Gvq7mJcdj/view?usp=drive_link) | 🔴 Hard | 350 | Steganography |
+| **Q2**| **The Pensive Does Not Forget** | [PDF](./Writeups/Round%205/R5%20Q2.pdf) | [View](https://drive.google.com/file/d/1ZLdq0wk7lNVX-3BH_ATBkbLt8IaQQhY0/view?usp=drive_link) | 🔴 Hard | 400 | Network Forensics / Cryptography / Steganography |
 
 # Tools Used
 

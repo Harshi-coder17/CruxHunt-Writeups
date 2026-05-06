@@ -70,20 +70,20 @@ The investigation moves to Chamber B-7, a decommissioned Ministry mainframe cham
 This round shifts from reconnaissance to active combat against the three core modules of the FIENDFYRE worm, named after the Unforgivable Curses. Each module targets a different layer of the infrastructure and must be neutralized
 | Q. NO. | Challenge Name | Writeup | Video Solution | Difficulty | Points | Category |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| **Q1**| **Sorting Hat Blocks** | [PDF](./path) | [View](./path) | 🟡 Medium | 270 | Web Exploitation / Cryptography / AES-ECB |
-| **Q2**| **Dawlish Leak** | [PDF](./path) | [View](./path) | 🟡 Medium | 200 | Multi-stage OSINT + Git Forensics + Cryptography problem |
-| **Q3**| **Gringotts Breach** | [PDF](./path) | [View](./path) | Medium | 300 | #Category |
-| **Q4**| **Riddle's Diary** | [PDF](./path) | [View](./path) | 🟡 Medium | 240 | Web Exploitation / SSTI / Cryptography |
-| **Q5**| **Broken Cipher** | [PDF](./path) | [View](./path) | 🟡 Medium | 170 | RSA/Wiener’s Attack |
+| **Q1**| **Sorting Hat Blocks** | [PDF](./Writeups/Round%203/R3%20Q1.pdf) | [View](https://drive.google.com/file/d/1wXCPziY470_r7hWacM4QwW28KiKMe8Ok/view?usp=drive_link) | 🟡 Medium | 270 | Web Exploitation / Cryptography / AES-ECB |
+| **Q2**| **Dawlish Leak** | [PDF](./Writeups/Round%203/R3%20Q2.pdf) | [View](https://drive.google.com/file/d/1oRA2JkzEqTzqXQKD2RVVZbyNBn_gZrZt/view?usp=drive_link) | 🟡 Medium | 200 | Multi-stage OSINT + Git Forensics + Cryptography problem |
+| **Q3**| **Gringotts Breach** | [PDF](./Writeups/Round%203/R3%20Q3.pdf) | [View](https://drive.google.com/file/d/1LxZ6sgVRxe3NmJRolx1FbiPTHO7ZMZGO/view?usp=drive_link) | 🔴 Hard | 300 | Cross-Site Request Forgery (CSRF) |
+| **Q4**| **Riddle's Diary** | [PDF](./Writeups/Round%203/R3%20Q4.pdf) | [View](https://drive.google.com/file/d/1HVxvIzcPhYtYwCIg9DKYE5GEQMzDp8rR/view?usp=drive_link) | 🟡 Medium | 240 | Web Exploitation / SSTI / Cryptography |
+| **Q5**| **Broken Cipher** | [PDF](./Writeups/Round%203/R3%20Q5.pdf) | [View](https://drive.google.com/file/d/16hGd9fYS21Diq4UzXoLHcabQPsSiJdqr/view?usp=drive_link) | 🟡 Medium | 170 | RSA/Wiener’s Attack |
 
 ## Round 4: "Breaking What Was Built to Last"
 Focuses on the "Unbreakable Vow" of the system—the deepest, most architecturally resistant layers designed by Snape. This round involves dismantling complex security measures like custom instruction sets and shifting address space layouts.
 | Q. NO. | Challenge Name | Writeup | Video Solution | Difficulty | Points | Category |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| **Q1**| **Example Challenge** | [PDF](./path) | [View](./path) | Medium | 200 | #Category |
-| **Q2**| **Example Challenge** | [PDF](./path) | [View](./path) | Medium | 200 | #Category |
-| **Q3**| **Example Challenge** | [PDF](./path) | [View](./path) | Medium | 200 | #Category |
-| **Q4**| **Example Challenge** | [PDF](./path) | [View](./path) | Medium | 200 | #Category |
+| **Q1**| **Order of the Phoenix** | [PDF](./Writeups/Round%204/R4%20Q1.pdf) | [View](./path) | 🔴 Hard | 350 | Forensics |
+| **Q2**| **Fragments of Truth** | [PDF](./Writeups/Round%204/R4%20Q2.pdf) | [View](./path) | 🟡 Medium | 270 | Audio Forensics / Steganography  |
+| **Q3**| **Example Challenge** | [PDF](./Writeups/Round%204/R4%20Q3.pdf) | [View](./path) | Medium | 310 | #Category |
+| **Q4**| **The Marauder's Map** | [PDF](./Writeups/Round%204/R4%20Q4.pdf) | [View](./path) | 🟡 Medium | 400 | OSINT, Digital Forensics  |
 
 ## Round 5: "Fiendfyre - The Final Cipher"
 A single, two-stage investigation into Snape’s manifesto and evidence. Participants must navigate a distributed network hidden within magical portraits to recover a private key and sign a final "kill command" to release the archive lock.

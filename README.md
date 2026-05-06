@@ -73,8 +73,8 @@ This round shifts from reconnaissance to active combat against the three core mo
 | **Q1**| **Sorting Hat Blocks** | [PDF](./path) | [View](./path) | 🟡 Medium | 270 | Web Exploitation / Cryptography / AES-ECB |
 | **Q2**| **Dawlish Leak** | [PDF](./path) | [View](./path) | 🟡 Medium | 200 | Multi-stage OSINT + Git Forensics + Cryptography problem |
 | **Q3**| **Gringotts Breach** | [PDF](./path) | [View](./path) | Medium | 300 | #Category |
-| **Q4**| **Example Challenge** | [PDF](./path) | [View](./path) | Medium | 240 | #Category |
-| **Q5**| **Example Challenge** | [PDF](./path) | [View](./path) | Medium | 170 | #Category |
+| **Q4**| **Riddle's Diary** | [PDF](./path) | [View](./path) | 🟡 Medium | 240 | Web Exploitation / SSTI / Cryptography |
+| **Q5**| **Broken Cipher** | [PDF](./path) | [View](./path) | 🟡 Medium | 170 | RSA/Wiener’s Attack |
 
 ## Round 4: "Breaking What Was Built to Last"
 Focuses on the "Unbreakable Vow" of the system—the deepest, most architecturally resistant layers designed by Snape. This round involves dismantling complex security measures like custom instruction sets and shifting address space layouts.

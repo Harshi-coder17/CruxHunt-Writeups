@@ -101,7 +101,8 @@ Some of the tools used in these writeups include (not limited to):
 | Nmap | [https://Nmap.org/](https://Nmap.org/) |
 | CyberChef | [https://www.kali.org/tools/gobuster/](https://gchq.github.io/CyberChef) |
 | Dogbolt | [https://wpscan.com/](https://dogbolt.org) |
-| enum4linux | [https://www.kali.org/tools/enum4linux/](https://www.kali.org/tools/enum4linux/) |
+| Crypti | [https://cryptii.com/](https://cryptii.com/) |
+| Aperi’Solve | [https://www.aperisolve.com/](https://www.aperisolve.com/) |
 
 
 # Social Media Handles 

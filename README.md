@@ -99,8 +99,8 @@ Some of the tools used in these writeups include (not limited to):
 | Tool Name | Link |
 | :--- | :--- |
 | Nmap | [https://Nmap.org/](https://Nmap.org/) |
-| CyberChef | [https://www.kali.org/tools/gobuster/](https://gchq.github.io/CyberChef) |
-| Dogbolt | [https://wpscan.com/](https://dogbolt.org) |
+| CyberChef | [https://gchq.github.io/CyberChef](https://gchq.github.io/CyberChef) |
+| Dogbolt | [https://dogbolt.org](https://dogbolt.org) |
 | Crypti | [https://cryptii.com/](https://cryptii.com/) |
 | Aperi’Solve | [https://www.aperisolve.com/](https://www.aperisolve.com/) |
 
